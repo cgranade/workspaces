@@ -1,18 +1,24 @@
 [submodule "microsoft/quantum"]
 	path = microsoft/quantum
 	url = https://github.com/microsoft/quantum
+	ignore = all
 [submodule ".\\microsoft\\quantumlibraries"]
 	path = .\\microsoft\\quantumlibraries
 	url = https://github.com/microsoft/quantumlibraries
+	ignore = all
 [submodule ".\\microsoft\\iqsharp"]
 	path = .\\microsoft\\iqsharp
 	url = https://github.com/microsoft/iqsharp
+	ignore = all
 [submodule ".\\microsoft\\qsharp-runtime"]
 	path = .\\microsoft\\qsharp-runtime
 	url = https://github.com/microsoft/qsharp-runtime
+	ignore = all
 [submodule ".\\microsoft\\qsharp-compiler"]
 	path = .\\microsoft\\qsharp-compiler
 	url = https://github.com/microsoft/qsharp-compiler
+	ignore = all
 [submodule ".\\microsoftdocs\\quantum-docs-pr"]
 	path = .\\microsoftdocs\\quantum-docs-pr
 	url = https://github.com/microsoftdocs/quantum-docs-pr
+	ignore = all

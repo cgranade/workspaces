@@ -5,18 +5,6 @@
 		},
 		{
 			"path": "microsoft//quantumlibraries"
-		},
-		{
-			"path": "microsoft//iqsharp"
-		},
-		{
-			"path": "microsoft//qsharp-compiler"
-		},
-		{
-			"path": "microsoft//qsharp-runtime"
-		},
-		{
-			"path": "microsoftdocs//quantum-docs-pr"
 		}
 	],
 	"settings": {}
